@@ -1,0 +1,12 @@
+//This code just shows a products.json file with two objects inside it.
+[{
+  "product_name": "Iphone",
+  "price": 1000,
+  "image": "iphone.png"
+},
+  {
+    "product_name": "Pixel",
+    "price": 800,
+    "image": "pixel.png"
+  }]
+
